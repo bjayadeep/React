@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 let parent = React.createElement(
   "div",
   { id: "parent" },
@@ -11,6 +14,7 @@ let parent = React.createElement(
     React.createElement("h2", {}, "This is sibling h2 tag"),
   ]),
   ]
+  
 
 );
 
