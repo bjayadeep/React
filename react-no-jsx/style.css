@@ -1,0 +1,17 @@
+#parent {
+  padding: 20px;
+  background-color: #f4f4f4;
+  border: 2px solid #ccc;
+}
+
+#child {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #fff;
+  border: 1px dashed #888;
+}
+
+h1, h2 {
+  margin: 4px 0;
+  font-family: Arial, sans-serif;
+}
